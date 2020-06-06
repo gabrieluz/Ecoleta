@@ -4,7 +4,7 @@
 
 # Indice
 
-- [Sobre](#-Sobre)
+- [Sobre](#Sobre)
 - [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)
 - [Como baixar o projeto](#-baixar-Projeto)
 
