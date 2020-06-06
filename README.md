@@ -15,7 +15,7 @@
 com orientação de Mayk Brito
 
 
-A **Next Level Week** tem como pilares o foco (no momento de cada dev), a prática (sem ela fica mais difícil de avancar) e o grupo (um ajudando o outro).
+A **Next Level Week** tem como pilares o foco (no momento de cada dev), a prática (sem ela fica mais difícil de avançar) e o grupo (um ajudando o outro).
 
 ---
 
