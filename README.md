@@ -4,9 +4,9 @@
 
 # Indice
 
-- [Sobre](#-sobre)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como baixar o projeto](#-baixar-o-projeto)
+- [Sobre](#-Sobre)
+- [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)
+- [Como baixar o projeto](#-baixar-Projeto)
 
 
 ## Sobre
@@ -19,7 +19,7 @@ A **Next Level Week** tem como pilares o foco (no momento de cada dev), a práti
 
 ---
 
-## Tecnologias utilizadas
+## Tecnologias Utilizadas
 
 Projeto desenvolvido com as seguintes tecnologias
 
@@ -29,7 +29,7 @@ Projeto desenvolvido com as seguintes tecnologias
 
 ---
 
-## Baixar o projeto
+## Baixar projeto
 
 ```bash
 
