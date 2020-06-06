@@ -5,8 +5,8 @@
 # Indice
 
 - [Sobre](#Sobre)
-- [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)
-- [Como baixar o projeto](#-baixar-Projeto)
+- [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
+- [Como baixar o projeto](#Baixar-Projeto)
 
 
 ## Sobre
@@ -29,7 +29,7 @@ Projeto desenvolvido com as seguintes tecnologias
 
 ---
 
-## Baixar projeto
+## Baixar Projeto
 
 ```bash
 
